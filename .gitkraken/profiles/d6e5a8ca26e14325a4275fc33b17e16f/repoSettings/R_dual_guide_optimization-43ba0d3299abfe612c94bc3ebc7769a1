@@ -1,0 +1,103 @@
+{
+  "remoteParents": {
+    "github": {
+      "petercla0119": {
+        "R_dual_guide_optimization": {
+          "hostingServiceType": "github",
+          "owner": "petercla0119",
+          "name": "R_dual_guide_optimization"
+        }
+      }
+    }
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "remoteHeadCollectionByRemoteName": {
+    "origin": {}
+  },
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "f973bd37-3b49-4150-b31d-123b778fefc9",
+        "filter": "author:petercla0119",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "petercla0119"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "89054c11-dfd3-4e7f-bdf0-acd26b942809",
+        "filter": "assignee:petercla0119",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "petercla0119"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "802fe84b-9b11-4a53-aa77-0c4f00ceaab7",
+        "filter": "review-requested:petercla0119",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "petercla0119"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "c8967e5c-dd7b-4d53-9adf-56f6fb64be42",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

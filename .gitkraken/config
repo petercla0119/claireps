@@ -1,0 +1,138 @@
+{
+  "lastUpgradeScriptRun": "v10.3.0",
+  "appId": "adc54c7b269051e7f5f72bfbf1d1e96d9d4e8268",
+  "appLocale": "en-US",
+  "appDateFormat": null,
+  "appDateTimeFormat": null,
+  "appDateWordFormat": null,
+  "appDateVerboseFormat": null,
+  "userMilestones": {
+    "installId": "9869f9ff-ecd6-473c-909c-8a3ef1f9b74d",
+    "firstAppOpen": true,
+    "firstProfileCreated": true,
+    "completedNewUserOnboarding": true,
+    "firstRepoOpened": true,
+    "guideOpened": true,
+    "firstTimeCommitSelected": true,
+    "acknowledgedCommitDetailPanel": true,
+    "createACommit": true,
+    "connectIntegration": true,
+    "pushSomeCode": true
+  },
+  "sslWhitelist": [],
+  "lastReleaseNotesDisplayed": "10.3.0",
+  "ui": {
+    "shouldShowStartupPromoModal": false
+  },
+  "aliases": {
+    "repo": {},
+    "tabs": {}
+  },
+  "registration": {
+    "EULA": {
+      "status": "agree_unverified",
+      "version": "8.3.1"
+    },
+    "status": "unregistered"
+  },
+  "licensedFeatures": [],
+  "userFeatures": [
+    {
+      "name": "activityStatus"
+    },
+    {
+      "name": "changePriceEnabled"
+    },
+    {
+      "name": "cli"
+    },
+    {
+      "name": "experimentalAiCommmitMsg"
+    },
+    {
+      "name": "experimentalGitBinary"
+    },
+    {
+      "name": "experimentalGitBinaryDefaultOn971"
+    },
+    {
+      "name": "experimentalGitBinarySpawnServer961"
+    },
+    {
+      "name": "gitBash"
+    },
+    {
+      "name": "gitkraken"
+    },
+    {
+      "name": "gkApi"
+    },
+    {
+      "name": "gkDotDevLaunchpadLabels"
+    },
+    {
+      "name": "gkDotDevNewPurchaseFlow"
+    },
+    {
+      "name": "GKDotDevShowSsoSettings"
+    },
+    {
+      "name": "goldenTicketSpecial"
+    },
+    {
+      "name": "noGlobalFocusView"
+    },
+    {
+      "name": "onboardingGuide"
+    },
+    {
+      "name": "registeredForGST"
+    },
+    {
+      "name": "terminalInsideRepoTab"
+    },
+    {
+      "name": "unregisteredTrials"
+    },
+    {
+      "name": "velocityInClient_9_0_0"
+    },
+    {
+      "name": "version_2"
+    },
+    {
+      "name": "workspacesPRComplexity"
+    }
+  ],
+  "fuzzyFinderMetadata": {
+    "itemMetadata": {
+      "OPEN_REPO": {
+        "openRepo-/Users/claireps/R_dual_guide_optimization": {
+          "id": "openRepo-/Users/claireps/R_dual_guide_optimization",
+          "timestamps": [
+            1725892228841
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/claireps/dual_guide_crispr_optimization": {
+          "id": "openRepo-/Users/claireps/dual_guide_crispr_optimization",
+          "timestamps": [
+            1725892310252
+          ],
+          "total": 1
+        }
+      }
+    }
+  },
+  "windowSettings": {
+    "x": 1752,
+    "y": 189,
+    "width": 1251,
+    "height": 800,
+    "fullScreen": false,
+    "maximized": false
+  },
+  "commits": {
+    "maxCommitsInGraph": 2000
+  }
+}
